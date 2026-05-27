@@ -7,20 +7,20 @@ Corne MAX (Helidox), 3x6. - [keymap Configuration (Via app)](/crkbd_pro.layout.j
 
 **All wired**
 
-OEM Profile keycaps. Black/Frost Keycaps.<br>
+OEM Profile - Black/Frost Keycaps.<br>
 No Wireless. USB Coiled cable is just better in my opinion. <br>
 
 <img src="res/both.png" alt ="GIF" style="width:500px"><br>
 
 **Right side with natural lightning**.
 
-OEM Profile keycaps. Black/Frost Keycaps.
+OEM Profile - Black/Frost Keycaps.
 
 <img src="res/right.png" alt ="GIF" style="width:500px"><br>
 
 ___
 
-**OEM Profile keycaps. Black/Frost Keycaps.**
+**OEM Profile - Black/Frost Keycaps.**
 
 You can clearly see the slopped, this will feel very natural. <br>
 Even thumb keys will have slopped for the direction of the key press.<br>
@@ -29,7 +29,7 @@ Even thumb keys will have slopped for the direction of the key press.<br>
 
 ___
 
-**DSA Keycaps. Black/Frost Keycaps.**
+**DSA Profile - Black/Frost Keycaps.**
 
 No slop. Flat keycap is not terrible, many prefer flat keycaps. 
 
