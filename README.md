@@ -1,7 +1,6 @@
 # Crkbd
 
 Corne MAX (Helidox), 3x6. - [keymap Configuration (Via app)](/crkbd_pro.layout.json)
- 
 
 ## Showcase
 
@@ -80,7 +79,7 @@ less space and more free to move around.
 ``FN_RIGHT, F keys with mouse control``
 
 <img src="res/layout3.jpg" alt ="GIF" style="width:600px"><br>
-``FN_LEFT_RIGHT, Mainly for ESC``
+``FN_LEFT_RIGHT, Mainly for ESC, secondary directional keys.``
 
 This is basically a full functioning keyboard layouyt just as 60% keyboard. <br>
 I wanted to keep it as simple as possible, without no double tap, or combo-key 
